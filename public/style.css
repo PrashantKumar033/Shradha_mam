@@ -1,0 +1,18 @@
+*{
+    margin: 3px;
+    padding: 3px;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+body{
+    background-color: rgb(11, 181, 181);
+}
+#heading{
+    color: rgb(157, 31, 31);
+    text-decoration: underline;
+}
+#username{
+    font-style: italic;
+    text-decoration: underline;
+}
